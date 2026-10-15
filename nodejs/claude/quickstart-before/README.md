@@ -1,3 +1,15 @@
+<!--
+---
+name: "Claude Agent SDK + Microsoft 365 Agents SDK Quickstart"
+page_type: sample
+languages:
+- typescript
+products:
+- agent-365
+description: "Build a TypeScript quickstart agent that processes Microsoft 365 messages using the Claude Agent SDK."
+---
+-->
+
 # Claude Agent SDK + Microsoft 365 Agents SDK Quickstart
 
 A sample integration demonstrating how to build an intelligent agent using the Claude Agent SDK within the Microsoft 365 Agents SDK.

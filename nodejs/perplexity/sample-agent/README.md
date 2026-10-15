@@ -1,3 +1,15 @@
+<!--
+---
+name: "Perplexity Sample Agent - Node.js"
+page_type: sample
+languages:
+- typescript
+products:
+- agent-365
+description: "Integrate Perplexity with a TypeScript agent using Agent 365 observability, notifications, and MCP tools."
+---
+-->
+
 # Perplexity Sample Agent - Node.js
 
 

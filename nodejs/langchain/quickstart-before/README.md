@@ -1,3 +1,15 @@
+<!--
+---
+name: "Sample Agent - Node.js LangChain"
+page_type: sample
+languages:
+- typescript
+products:
+- agent-365
+description: "Build a LangChain quickstart agent in TypeScript hosted with the Microsoft 365 Agents SDK."
+---
+-->
+
 # Sample Agent - Node.js LangChain
 
 This directory contains a quickstart agent implementation using Node.js and LangChain.

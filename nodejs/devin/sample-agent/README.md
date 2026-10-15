@@ -1,3 +1,15 @@
+<!--
+---
+name: "Devin Sample Agent - Node.js"
+page_type: sample
+languages:
+- typescript
+products:
+- agent-365
+description: "Integrate Devin with a TypeScript agent using Agent 365 observability, notifications, and MCP tools."
+---
+-->
+
 # Devin Sample Agent - Node.js
 
 
