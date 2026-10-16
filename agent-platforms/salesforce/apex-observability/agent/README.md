@@ -1,15 +1,3 @@
-<!--
----
-name: "Agentforce agent (reference)"
-page_type: sample
-languages:
-- apex
-products:
-- agent-365
-description: "Configure an Agentforce agent that invokes a Salesforce Apex action to originate Agent 365 traces."
----
--->
-
 # Agentforce agent (reference)
 
 This folder is a **reference** for the optional Agentforce agent that drives the *origination*
