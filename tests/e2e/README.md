@@ -1,15 +1,3 @@
-<!--
----
-name: "E2E Integration Tests"
-page_type: sample
-languages:
-- csharp
-products:
-- agent-365
-description: "Test Agent 365 sample connectivity, message processing, and MCP tools with .NET end-to-end integration tests."
----
--->
-
 # E2E Integration Tests
 
 This directory contains end-to-end integration tests for Agent365 samples.

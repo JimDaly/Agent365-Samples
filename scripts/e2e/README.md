@@ -1,15 +1,3 @@
-<!--
----
-name: "E2E Test Scripts"
-page_type: sample
-languages:
-- powershell
-products:
-- agent-365
-description: "Automate Agent 365 sample configuration, authentication, startup, and log capture for GitHub Actions end-to-end tests."
----
--->
-
 # E2E Test Scripts
 
 This folder contains PowerShell scripts used by the GitHub Actions E2E workflow to test agent samples.
