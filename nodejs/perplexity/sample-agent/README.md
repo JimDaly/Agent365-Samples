@@ -6,7 +6,7 @@ languages:
 - typescript
 products:
 - agent-365
-description: "Integrate Perplexity with a TypeScript agent using Agent 365 observability, notifications, and MCP tools."
+description: "Build a Perplexity agent in TypeScript with Agent 365 observability."
 ---
 -->
 
